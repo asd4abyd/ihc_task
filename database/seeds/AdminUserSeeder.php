@@ -12,7 +12,7 @@ class AdminUserSeeder extends Seeder
      */
     public function run()
     {
-        if (User::where('is_admin')->exists()) {
+        if (User::where('is_admin', 1)->exists()) {
             return;
         }
 
