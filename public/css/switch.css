@@ -1,0 +1,149 @@
+.custom-switch.switch-primary .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #1761fd;
+    background-color: #1761fd
+}
+
+.custom-switch.switch-primary .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(23, 97, 253, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(23, 97, 253, 0.25)
+}
+
+.custom-switch.switch-primary .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-secondary .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #9ba7ca;
+    background-color: #9ba7ca
+}
+
+.custom-switch.switch-secondary .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(155, 167, 202, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(155, 167, 202, 0.25)
+}
+
+.custom-switch.switch-secondary .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-success .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #03d87f;
+    background-color: #03d87f
+}
+
+.custom-switch.switch-success .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(3, 216, 127, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(3, 216, 127, 0.25)
+}
+
+.custom-switch.switch-success .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-warning .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #ffb822;
+    background-color: #ffb822
+}
+
+.custom-switch.switch-warning .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(255, 184, 34, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(255, 184, 34, 0.25)
+}
+
+.custom-switch.switch-warning .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-info .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #12a4ed;
+    background-color: #12a4ed
+}
+
+.custom-switch.switch-info .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(18, 164, 237, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(18, 164, 237, 0.25)
+}
+
+.custom-switch.switch-info .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-danger .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #f5325c;
+    background-color: #f5325c
+}
+
+.custom-switch.switch-danger .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(245, 50, 92, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(245, 50, 92, 0.25)
+}
+
+.custom-switch.switch-danger .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-dark .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #1d2c48;
+    background-color: #1d2c48
+}
+
+.custom-switch.switch-dark .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(29, 44, 72, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(29, 44, 72, 0.25)
+}
+
+.custom-switch.switch-dark .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-purple .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #6d81f5;
+    background-color: #6d81f5
+}
+
+.custom-switch.switch-purple .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(109, 129, 245, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(109, 129, 245, 0.25)
+}
+
+.custom-switch.switch-purple .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-pink .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #fd3c97;
+    background-color: #fd3c97
+}
+
+.custom-switch.switch-pink .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(253, 60, 151, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(253, 60, 151, 0.25)
+}
+
+.custom-switch.switch-pink .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
+
+.custom-switch.switch-blue .custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #1761fd;
+    background-color: #1761fd
+}
+
+.custom-switch.switch-blue .custom-control-input:focus ~ .custom-control-label::before {
+    -webkit-box-shadow: 0 0 0 0.11px rgba(23, 97, 253, 0.25);
+    box-shadow: 0 0 0 0.11px rgba(23, 97, 253, 0.25)
+}
+
+.custom-switch.switch-blue .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: rgba(137, 151, 189, 0.7)
+}
